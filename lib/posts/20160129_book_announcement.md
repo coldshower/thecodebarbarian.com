@@ -52,7 +52,7 @@ co(function*() {
 ```
 
 * How to build on co to write your own [koa](https://www.npmjs.com/package/koa), AKA
-"[Express](https://www.npmjs.com/package/express)' spiritual successor". In particular, you'll see how to implement
+"[Express](https://www.npmjs.com/package/express)'s spiritual successor". In particular, you'll see how to implement
 your own [koa-compose](https://www.npmjs.com/package/koa-compose), the module
 that powers koa's generator-based middleware.
 
